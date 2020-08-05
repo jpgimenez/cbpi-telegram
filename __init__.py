@@ -1,5 +1,5 @@
 from modules import app, cbpi
-from thread import start_new_thread
+from _thread import start_new_thread
 import logging
 import time
 import requests
